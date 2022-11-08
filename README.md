@@ -1,16 +1,15 @@
 <h1> Hi Folks!, I am Harsha Srinivas</h1>
 
 ---
-[![linkdn]((https://www.linkedin.com/in/harsha-srinivas-621b26199/))
+[![linkdn follow]((https://www.linkedin.com/in/harsha-srinivas-621b26199/))
 
 
 
 I am a Self driven and motivated Engineering student adept at developing software products and
 implementing new software platforms. Possessing great analytical skills, ability to work in team environments and strong attention to detail.
 
-Currently I am Working as a Full Stack Engineer at [Getboarded](https://videowiki.pt/)
+Currently I am Working as a Full Stack Engineer at Bigbuddy
 
-You can visit my website where I Provide [Blogs](https://viveksingh.tech/) / [Workshops](www.meetind.me) etc, to help out the students like me in all possible ways I can.
 
 ---
 <h2>😎 Skills</h2>
