@@ -18,3 +18,4 @@ Currently I am Working as a Full Stack Engineer at Bigbuddy
 
 ---
 [![harsha1010-art GitHub stats](https://github-readme-stats.vercel.app/api?username=harsha1010-art)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha1010-art)](https://github.com/anuraghazra/github-readme-stats)
