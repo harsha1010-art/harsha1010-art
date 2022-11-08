@@ -1,21 +1,62 @@
-<h1> Hi Folks!, I am Harsha Srinivas</h1>
-
----
-[![linkdn follow]((https://www.linkedin.com/in/harsha-srinivas-621b26199/))
-
-
-
-I am a Self driven and motivated Engineering student adept at developing software products and
-implementing new software platforms. Possessing great analytical skills, ability to work in team environments and strong attention to detail.
-
-Currently I am Working as a Full Stack Engineer at Bigbuddy
+<h1 align="center">
+  Hi folks, im Harsha Srinivas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+</h1>
+<h3 align="center">
+  A passionate Full stack Developer with a desire to explore more about software development :smile:
+</h3>
 
 
----
-<h2>😎 Skills</h2>
+📫 How to reach me: <a href="https://www.linkedin.com/in/harsha-srinivas-621b26199/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
+  />
+</a>
 
-<img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt = "React Logo" width ="50" height ="50"/>   <img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt = "React Logo" width ="50" height ="50"/>      <img src="https://cdn.worldvectorlogo.com/logos/next-1.svg" alt = "React Logo" width ="50" height ="50"/>          <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt = "React Logo" width ="50" height ="50"/>  <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt = "React Logo" width ="50" height ="50"/>  <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt = "React Logo" width ="50" height ="50"/>   <img src ="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt = "React Logo" width ="50" height ="50"/>      <img src ="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt = "React Logo" width ="50" height ="50"/><img src ="https://cdn.worldvectorlogo.com/logos/docker.svg" alt = "React Logo" width ="50" height ="50"/>
+**Have worked in:**
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
+  
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
 
----
-[![harsha1010-art GitHub stats](https://github-readme-stats.vercel.app/api?username=harsha1010-art)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha1010-art)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
+ 
+</p>
+<p>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?&logo=tailwind+css&logoColor=white&style=flat"/>
+ 
+</p>
+
+**Version Control and Development tools used:**
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&style=flat" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
+</p>
+
+**Operating System familiar with:**
+<p>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
+</p>
+
+<br><br>
+<div align="center">
+ <div>
+   <p>&nbsp;
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=harsha1010-art&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="harsha" />
+   </p>
+  </div>
+ </div>
+<br><h2></h2><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=harsha1010-art&count_private=true&theme=radical&show_icons=true" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha1010-art&layout=compact"
+/>
+<!-- BLOG-POST-LIST:END -->
