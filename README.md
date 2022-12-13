@@ -28,7 +28,7 @@
 </p>
 <p>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?&logo=tailwind+css&logoColor=white&style=flat"/>
- 
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Material UI-38B2AC?&logo=Material+UI&logoColor=white&style=flat"/>
 </p>
 
 **Version Control and Development tools used:**
